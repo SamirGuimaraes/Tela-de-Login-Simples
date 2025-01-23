@@ -1,4 +1,4 @@
-# Login Application - README
+# Login Application
 
 ## Sobre o Projeto
 
